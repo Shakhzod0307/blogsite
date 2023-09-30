@@ -13,3 +13,7 @@ Profile page
 Admin news page
 
 ![Screenshots](public/screenshots/admin2.png)
+
+Dashboard page
+
+![Screenshots](public/screenshots/dashboard.png)
